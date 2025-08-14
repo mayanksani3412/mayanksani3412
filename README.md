@@ -1,2 +1,2 @@
-“Hi, I’m Mayank. I’m into digital design and Verilog coding”
--
+Hi 👋, I am Mayank Saini  
+VLSI Design | Verilog | Digital Electronics  
