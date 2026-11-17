@@ -1,4 +1,4 @@
-# Hi, I'm Mayank Saini 👋
+# Hi, I'm Mayank 👋
 
 ### RTL Design & Verification | VLSI Design & Technology
 
