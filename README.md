@@ -151,8 +151,3 @@ B.K. Birla Institute of Engineering & Technology, Pilani
 - AMBA Protocols — AXI, APB and AHB
 - AI/ML Applications in VLSI Verification
 
----
-
-<p align="center">
-  **"Building Digital Systems. Exploring Silicon. Learning Every Day."**
-</p>
